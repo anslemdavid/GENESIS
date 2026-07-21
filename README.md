@@ -1,237 +1,170 @@
-# 👋 Welcome to My GitHub Profile
+# 🚀 REAL-BENZO
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║               ✨ ANSLEM DAVID ✨                              ║
-║                                                               ║
-║     AI • Cybersecurity • Networking • System Integration      ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+# Anslem David Musedde
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2000&pause=500&color=16A34A&center=true&vCenter=true&width=1000&lines=🚀+Fachinformatiker+für+Systemintegration;🔐+CCNA+%7C+Cybersecurity+Expert;🤖+AI+%26+Automation+Developer;☁️+Cloud+%26+DevOps+Enthusiast;💡+Building+Tomorrow's+Solutions" alt="Typing SVG" />
+### AI • IT System Integration • Networking • Cybersecurity • Web Development
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=800&lines=Fachinformatiker+für+Systemintegration;CCNA+%7C+Cybersecurity+Enthusiast;AI+%26+Automation+Developer;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://github.com/anslemdavid">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://anslemdavid.github.io/REAL-BENZO/">
+    <img src="https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🌟 About This Project
 
-<table>
-<tr>
-<td width="50%">
+**REAL-BENZO** is my personal flagship portfolio repository showcasing my journey in **IT System Integration, Networking, Cybersecurity, AI-powered applications, and modern web development**.
 
-I'm **Anslem David**, a passionate technology enthusiast based in 🇩🇪 Germany with expertise in:
+This repository is designed to demonstrate:
 
-- 🖥️ **IT System Integration** - Enterprise infrastructure design
-- 🌐 **Computer Networking** - CCNA certified professional
-- 🔐 **Cybersecurity** - Building secure digital solutions
-- 🤖 **AI & Automation** - Intelligent system development
-- 💻 **Full-Stack Development** - Modern web applications
-- ☁️ **Cloud Technologies** - Scalable infrastructure
-- 📊 **Data Analysis** - Meaningful insights
-
-</td>
-<td width="50%">
-
-```
-╭─────────────────────╮
-│   🎯 CURRENT FOCUS  │
-├─────────────────────┤
-│ ✓ B2 German Cert.   │
-│ ✓ Ausbildung Path   │
-│ ✓ DevOps Skills     │
-│ ✓ Security Projects │
-│ ✓ AI Tools          │
-│ ✓ Scaling Apps      │
-╰─────────────────────╯
-```
-
-</td>
-</tr>
-</table>
+* Enterprise-ready web interfaces
+* Networking and infrastructure knowledge
+* Cybersecurity awareness
+* AI and automation integration
+* Clean, scalable, and recruiter-friendly project presentation
 
 ---
 
-## 🛠️ Tech Arsenal
+## 👨‍💻 About Me
 
-### 💻 Languages & Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,nodejs" alt="Languages" />
-</div>
+I am **Anslem David Musedde**, an aspiring **Fachinformatiker für Systemintegration** based in Germany with a strong passion for technology, infrastructure, and intelligent digital solutions.
 
-### 🚀 Frameworks & Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend" />
-</div>
+### My focus areas
 
-### 🔧 Infrastructure & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github" alt="DevOps" />
-</div>
+* 🖥️ IT System Integration
+* 🌐 Computer Networking
+* 🔐 Cybersecurity
+* ☁️ Cloud Technologies
+* 🤖 AI & Automation
+* 📊 Data Analysis
+* 🌍 Full-Stack Web Development
 
-### 🗄️ Databases & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,vscode,figma" alt="Tools" />
-</div>
+I enjoy solving technical problems and transforming complex systems into reliable, user-friendly solutions.
 
 ---
 
-## 📜 Professional Certifications
+## 🛠️ Tech Stack
 
-<div align="center">
+### Languages & Web
 
-| 🎓 Certification | Status |
-|:---:|:---:|
-| **CCNA 200-301** - Network Fundamentals | ✅ Certified |
-| **Cybersecurity Fundamentals** | ✅ Certified |
-| **Full-Stack Development** | ✅ Certified |
-| **Data Analytics & SQL** | ✅ Certified |
-| **Embedded Systems** | ✅ Certified |
-| **Databricks Foundations** | ✅ Certified |
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react" />
+</p>
 
-</div>
+### Infrastructure & Networking
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,figma" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📜 Certifications
+
+* **CCNA 200-301 – Network Fundamentals**
+* **Cybersecurity Fundamentals**
+* **Full-Stack Development 101**
+* **Data Analytics & SQL**
+* **Embedded Systems**
+* **Databricks Foundations**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 📈 GitHub Statistics
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=anslemdavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=27"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anslemdavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-### 🔝 Most Used Languages
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anslemdavid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anslemdavid&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+## 🔥 Contribution Streak
 
 <div align="center">
 
-### 📅 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=anslemdavid&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-### 📊 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anslemdavid&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
+<img src="https://streak-stats.demolab.com?user=anslemdavid&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 Current Mission
-
-```
-╔════════════════════════════════════════════════════╗
-║         🚀 2024-2025 ROADMAP & GOALS 🚀           ║
-╠════════════════════════════════════════════════════╣
-║ 📍 Complete B2 German Language Certification       ║
-║ 📍 Secure Ausbildung Position                      ║
-║ 📍 Master Cloud & DevOps Architecture              ║
-║ 📍 Build Enterprise Cybersecurity Projects         ║
-║ 📍 Develop AI-Powered Automation Tools             ║
-║ 📍 Create Scalable Full-Stack Applications         ║
-║ 📍 Contribute to Open Source                       ║
-║ 📍 Build Networking Infrastructure Labs            ║
-╚════════════════════════════════════════════════════╝
-```
-
----
-
-## 🌐 Featured Projects
+## 📈 Activity Graph
 
 <div align="center">
 
-### 💼 REAL-BENZO Portfolio
-👉 **[Visit My Portfolio](https://anslemdavid.github.io/REAL-BENZO/)** ← Check it out!
-
-**Highlights:**
-- ✨ Modern Apple-inspired UI/UX Design
-- 🌙 Dark & Light Mode Themes
-- 📱 Fully Responsive Mobile Design
-- 📊 Live GitHub Statistics Integration
-- ⚡ Smooth Animations & Transitions
-- 🤖 AI-Powered Components
-
-### 🚀 Recent Projects
-- **n8n Enterprise RAG Pipeline** - Google Drive/Sheets Intelligence Engine
-- **Customer Support Email MCP** - AI-Powered Gmail Integration
-- **Weather API MCP** - Zero-config Weather Service
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anslemdavid&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 💬 Let's Connect & Collaborate
+## 🎯 Current Goals
 
-<div align="center">
+* 🎓 Complete **B2 German certification**
+* 💼 Secure an **Ausbildung as Fachinformatiker für Systemintegration**
+* ☁️ Deepen knowledge in **Cloud & DevOps**
+* 🛡️ Build hands-on **Cybersecurity projects**
+* 🤖 Create practical **AI automation tools**
+* 🌐 Develop scalable full-stack applications
 
-### 🤝 Reach Out To Me
+---
 
-[![Email](https://img.shields.io/badge/Email-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anslemdavdmuse@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+## 🚀 Featured Portfolio
+
+👉 **Live Website:** https://anslemdavid.github.io/REAL-BENZO/
+
+The portfolio includes:
+
+* ✨ Apple-inspired UI/UX
+* 🌙 Dark/Light mode
+* 📱 Mobile-first responsive design
+* 📊 Live GitHub statistics
+* ⚡ Smooth animations
+* 🤖 AI-style interaction components
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  
+ [![Email](https://img.shields.io/badge/Email-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anslemdavdmuse@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anslem-musedde-250069403/)
 [![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/real__benzo)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Aurora_Velar/)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anslemdavid)
 
----
-
-### 📬 Open For
-- 💼 **Collaborations** on exciting tech projects
-- 🎓 **Learning** from experienced professionals
-- 🤝 **Networking** with tech enthusiasts
-- 🚀 **Opportunities** in Cybersecurity & IT Systems
-
-</div>
-
----
-
-## 🎨 Featured Highlights
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                    🌟 WHY WORK WITH ME 🌟               ║
-╠══════════════════════════════════════════════════════════╣
-║ ✓ Problem-solver with creative technical solutions      ║
-║ ✓ Quick learner adapting to new technologies            ║
-║ ✓ Strong foundation in systems & networking             ║
-║ ✓ Passionate about security & best practices            ║
-║ ✓ Excellent communicator in technical & business terms  ║
-║ ✓ Committed to continuous learning & improvement        ║
-║ ✓ Multilingual: German, English, and more               ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Support My Work
+### ⭐ If you like this project, consider giving it a star!
 
-If you find my projects helpful or interesting, consider:
-- 🌟 **Starring** my repositories
-- 🔄 **Following** my GitHub profile
-- 💬 **Sharing** feedback and suggestions
-- 🤝 **Collaborating** on projects
-
----
-
-### 💡 Philosophy
-
-> **"Building the future through innovation, security, and intelligent design. One project at a time."**
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=14&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=800&lines=Last+updated:+2026+%7C+Always+learning+%7C+Always+growing+%7C+Always+innovating" alt="Update Badge" />
+**"Building the future through technology, one project at a time."**
 
 </div>
